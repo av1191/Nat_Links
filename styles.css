@@ -1,0 +1,48 @@
+body {
+    /* background: linear-gradient(to right, #ff0000, #00ff00); */
+    /* background: linear-gradient(to bottom right, red, yellow, blue, green); */
+    
+} 
+div {
+    height: 1200px;
+    background: linear-gradient(to bottom right, yellow, red, green, blue); */
+}  
+/* Style du titre h1 de la page d'accueil */
+h1 {
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center; /* Centrer le texte */
+    font-size: 4rem; /* Grossir la police */
+}
+h2 {
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center; /* Centrer le texte */
+    font-size: 3rem; /* Grossir la police */ 
+}
+
+/* Style de la liste des catégories */
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; /* Centrer le texte */
+}
+
+/* Style des liens de catégorie */
+li a {
+    text-decoration: none;
+    color: black;
+    font-size: 2rem; /* Grossir la police */
+}
+
+/* Style des liens de catégorie au survol */
+li a:hover {
+    color: red;
+}
+ /* Définissez le style CSS pour la classe image_1 */
+ .image_1 {
+    width: 100%; /* Largeur de l'image en pixels */
+    height: auto; /* Hauteur automatique pour maintenir les proportions de l'image */
+    /* border: 2px solid #ccc; Bordure autour de l'image */
+ }
